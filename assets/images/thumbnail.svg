@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1400" viewBox="0 0 1200 1400">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#f2f0ff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#g)"/>
+  <g transform="translate(60,60)">
+    <rect x="0" y="0" width="1080" height="1280" rx="30" fill="#fff" stroke="#eee"/>
+    <circle cx="600" cy="460" r="220" fill="#efe8ff" stroke="#e0d3ff"/>
+    <rect x="220" y="760" width="760" height="180" rx="14" fill="#faf7ff"/>
+    <text x="600" y="480" font-family="Inter, Arial" font-size="42" fill="#6a3be8" text-anchor="middle" font-weight="700">Profile</text>
+  </g>
+</svg>
